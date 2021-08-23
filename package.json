@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "author": "Md. Tanjir Mahabub",
   "private": true,
-  "homepage": "",
   "dependencies": {
     "@babel/core": "^7.10.2",
     "@date-io/date-fns": "^1.3.13",
